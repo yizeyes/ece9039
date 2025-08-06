@@ -139,5 +139,4 @@ pip install pydicom numpy opencv-python Pillow pandas
 
 ---
 
-Let me know if you'd like a version of this README in **Markdown with emojis, diagrams**, or as a **PDF/document** for distribution.
 
