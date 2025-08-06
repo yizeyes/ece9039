@@ -1,5 +1,3 @@
-以下是你所需的英文翻译和完整的 README 文档（包含模块说明、使用流程和目的）：
-
 ---
 
 ## 📘 **README: Medical Image Processing and Annotation Pipeline**
@@ -142,3 +140,4 @@ pip install pydicom numpy opencv-python Pillow pandas
 ---
 
 Let me know if you'd like a version of this README in **Markdown with emojis, diagrams**, or as a **PDF/document** for distribution.
+
